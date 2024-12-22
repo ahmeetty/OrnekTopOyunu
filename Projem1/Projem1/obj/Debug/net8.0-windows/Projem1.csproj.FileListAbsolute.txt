@@ -1,0 +1,16 @@
+C:\Users\Ahmet\source\repos\Projem1\Projem1\bin\Debug\net8.0-windows\Projem1.exe
+C:\Users\Ahmet\source\repos\Projem1\Projem1\bin\Debug\net8.0-windows\Projem1.deps.json
+C:\Users\Ahmet\source\repos\Projem1\Projem1\bin\Debug\net8.0-windows\Projem1.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Projem1\Projem1\bin\Debug\net8.0-windows\Projem1.dll
+C:\Users\Ahmet\source\repos\Projem1\Projem1\bin\Debug\net8.0-windows\Projem1.pdb
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.Form1.resources
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.dll
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\refint\Projem1.dll
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.pdb
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\Projem1.genruntimeconfig.cache
+C:\Users\Ahmet\source\repos\Projem1\Projem1\obj\Debug\net8.0-windows\ref\Projem1.dll
